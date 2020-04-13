@@ -1,6 +1,6 @@
 # TicTacToeGame
 
-This is a simple Tic Tac Toe Game.
+This is a basic Tic Tac Toe Game using GUI and SWIFT.
 
 ## Installation
 
